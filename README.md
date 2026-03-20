@@ -19,7 +19,7 @@
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,git,github,c,java" />
 </p>
 
 ---
@@ -39,8 +39,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Avimanyu8008&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Avimanyu8008&theme=tokyonight" />
 </p>
 
 ---
@@ -48,7 +48,6 @@
 ## 📫 Connect With Me
 
 <p>
-  <a href="https://github.com/YOUR_USERNAME">GitHub</a> • 
-  <a href="#">LinkedIn</a> • 
-  <a href="#">Twitter</a>
+  <a href="https://github.com/Avimanyu8008">GitHub</a> • 
+  <a href="#">[Twitter](https://x.com/Avimanyu8008)</a>
 </p>
