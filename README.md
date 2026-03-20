@@ -49,5 +49,5 @@
 
 <p>
   <a href="https://github.com/Avimanyu8008">GitHub</a> • 
-  <a href="#">[Twitter](https://x.com/Avimanyu8008)</a>
+  <a href="https://x.com/Avimanyu8008">Twitter</a>
 </p>
