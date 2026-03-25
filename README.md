@@ -27,6 +27,7 @@
 ## 🌟 Featured Project
 
 ### 🔥 BagsRadar
+### 🔥 Designhub
 
 > Real-time health dashboard for the Bags ecosystem
 
